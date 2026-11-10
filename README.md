@@ -1,16 +1,15 @@
-## Hi there 👋
+# Evelyn Worthington (she/her)
+Welcome to my digital portfolio! I am a senior Narrative and Game Design major at the University of Pittsburgh. 
 
-<!--
-**evworthing/evworthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I have experience in Visual Art, 3D-Modeling Software, Animation, Game Writing, Game Design, and Narrative Design.
 
-Here are some ideas to get you started:
+## Skills
+- Modeling and Animation in Blender
+- Game Design in Unity
+- Concept Art
+- Photoshop and FireAlpaca
+- Team Organization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+You can reach me at ev.worthing@gmail.com.
